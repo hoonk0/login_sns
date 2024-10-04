@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356115690103",
+    "project_id": "login-sns-254b0",
+    "storage_bucket": "login-sns-254b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356115690103:android:25f606daf9c719d85a4c72",
+        "android_client_info": {
+          "package_name": "com.example.login_sns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-hbgRf5JtWpHd46esEEuk3Q0S7VEhKpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
